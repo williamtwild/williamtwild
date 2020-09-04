@@ -1,4 +1,4 @@
-<img src="https://williamtwild.github.io/images/gy_banner.png" width="100%">
+<img src="https://williamtwild.github.io/images/gy_banner-crop.png" width="100%">
 
 
 
