@@ -18,8 +18,5 @@ Here are some ideas to get you started:
 -->
 
 
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/william-wild-a692261"
+
 
