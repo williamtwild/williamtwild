@@ -1,4 +1,4 @@
-<! --### Hi there 👋 -->
+<!-- ### Hi there 👋 -->
 
 <!-- ### Hi there 👋, William Wild -->
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
