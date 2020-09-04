@@ -1,6 +1,11 @@
 <!-- ### Hi there 👋 -->
 
 <!-- ### Hi there 👋, William Wild -->
+
+
+<img src="https://williamtwild.github.io/images/gy_banner.jpeg">
+
+
 ![](https://williamtwild.github.io/images/gy_banner.jpeg)
 
 
