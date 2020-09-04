@@ -9,7 +9,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=williamtwild&show_icons=true)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamtwild)](https://github.com/<username>/<repository_name>)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamtwild)](https://github.com/williamtwild/williamtwild)
 
 
 ![Profile views](https://gpvc.arturio.dev/williamtwild)  
