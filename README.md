@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <!-- ### Hi there 👋, William Wild -->
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](williamtwild.github.io/images/gy_banner.jpeg)
 
 
 
