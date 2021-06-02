@@ -16,3 +16,5 @@
 
 
 
+
+[Resume William Wild.pdf](https://github.com/williamtwild/williamtwild/files/6585538/Resume.William.Wild.pdf)
